@@ -1,0 +1,2 @@
+# sixt33n
+The objective of this lab is to use voice commands to control how the car moves. Each voice command is associated with one of these events: drive straight far, drive straight close, turn right, and turn left. The voice command signals will undergo PCA projection and classification process in real-time. For every successful classification, Sixt33n should set to start drive mode and execute the intended action. 
